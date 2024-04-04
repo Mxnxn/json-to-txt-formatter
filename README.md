@@ -4,6 +4,5 @@ Previously, I'd received json file instead of txt file. I was expecting it in tx
 However, it aint in my hands. So, created this script for formatting and had some fun time.
 
 To run,
-'''python 
-python scripy.py <filename>.json
-'''
+> python scripy.py <filename>.json
+
